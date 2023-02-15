@@ -17,7 +17,10 @@ export default function Email() {
         <Container style={container}>
           <Section style={box}>
             <div style={flex}>
-              <Img src="/static/logo.svg" alt="Company logo" />
+              <Img
+                src="https://drive.google.com/uc?export=view&id=1liFdoCHjSqGokBuWJ3Kngi09wr8Ey2CI"
+                alt="Company logo"
+              />
               <Text style={header}>GetSquare</Text>
             </div>
             <Hr style={hr} />
@@ -60,16 +63,28 @@ export default function Email() {
             </Text>
             <div style={flex}>
               <Link style={anchor} href="#">
-                <Img src="/static/facebook.svg" alt="Facebook logo" />
+                <Img
+                  src="https://drive.google.com/uc?export=view&id=1blKqvFmaqwbsozE19wkZHD2kIz_Gm8nA"
+                  alt="Facebook logo"
+                />
               </Link>
               <Link style={anchorFooter} href="#">
-                <Img src="/static/linkedin.svg" alt="LinkedIn logo" />
+                <Img
+                  src="https://drive.google.com/uc?export=view&id=1SEee18Kz739s3WqHFSIimeMYxpTPcUo1"
+                  alt="LinkedIn logo"
+                />
               </Link>
               <Link style={anchorFooter} href="#">
-                <Img src="/static/twitter.svg" alt="Twitter logo" />
+                <Img
+                  src="https://drive.google.com/uc?export=view&id=1tCGWLqJmAVyhOBHxMO4ynAd9CDnH6KRf"
+                  alt="Twitter logo"
+                />
               </Link>
               <Link style={anchorFooter} href="#">
-                <Img src="/static/instagram.svg" alt="Instagram logo" />
+                <Img
+                  src="https://drive.google.com/uc?export=view&id=1UV5PqC10J5XxsAk30KzPrwQApPYLonCW"
+                  alt="Instagram logo"
+                />
               </Link>
             </div>
           </Section>
