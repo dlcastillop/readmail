@@ -4,6 +4,8 @@ Beautiful email templates ready for your personal or professional emails.
 
 ## Templates list
 
+Get Square
+
 - ✅ General purpose
 - ✅ Login
 - ✅ Password reset
