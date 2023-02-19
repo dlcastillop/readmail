@@ -19,4 +19,4 @@ Get Square
 
 ## Contributions
 
-Suggestions and pull requests are welcomed!
+Suggestions and pull requests are welcomed! Please read the [CONTRIBUTING.md](https://github.com/dlcastillop/readmail/blob/main/CONTRIBUTING.md) file before contributing.
