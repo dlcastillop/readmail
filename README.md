@@ -1,6 +1,6 @@
 # 🌟 Readmail
 
-Beautiful email templates ready for your personal or professional emails.
+A collection of beautiful email templates ready for your personal or professional emails.
 
 ## Templates list
 
